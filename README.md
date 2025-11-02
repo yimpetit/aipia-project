@@ -9,8 +9,9 @@
 yarn install
 yarn dev
 
-
 ```
+
+**[http://localhost:5173](http://localhost:5173)에서 실행**
 
 ---
 
